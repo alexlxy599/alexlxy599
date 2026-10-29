@@ -3,7 +3,7 @@
 
 <a name="about-me"></a>
 <h2>About me</h2>
-<p>哈喽哈喽，我是 <strong>Alex</strong>，现居上海，在 Quantverse 从事全球人才生态工作与面向 HR 与平台部门的 AI 工具开发（Toy Maker），负责科研与业界 AI 人才的识别与连接。工作之外，我也曾是一名半职业摄影师（作品七次收录 Vogue Italia、富士中国展、跳海 &amp; PhotoReason 双城展），家有两只可爱的小猫。欢迎一起聊聊投资、AI，或者各种好玩的事。</p>
+<p>哈喽，我是 <strong>Alex</strong>，现居上海，在 Quantverse 从事全球人才生态工作与面向 HR 与平台部门的 AI 工具开发（Toy Maker），负责科研与业界 AI 人才的识别与连接。工作之外，我也曾是一名半职业摄影师（作品七次收录 Vogue Italia、富士中国展、跳海 &amp; PhotoReason 双城展），家有两只可爱的小猫。欢迎一起聊聊投资、AI，或者各种好玩的事。</p>
 <p><a href="https://github.com/alexlxy599"><img src="contact-github.svg" alt="GitHub" width="100" height="30"></a>&nbsp; <a href="https://www.linkedin.com/in/xianyiliu/"><img src="contact-linkedin.svg" alt="LinkedIn" width="100" height="30"></a>&nbsp; <a href="mailto:liuxianyi2018@gmail.com"><img src="contact-gmail.svg" alt="Gmail" width="100" height="30"></a></p>
 
 <h2>关于 Quantverse</h2>
