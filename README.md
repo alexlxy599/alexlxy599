@@ -1,5 +1,5 @@
 <!-- Layout revised 2026-10-29; job content checked 2026-10-28. -->
-<p><a href="https://www.quantverse.cn/"><img src="banner-reception.jpg" alt="Quantverse 前台与品牌墙" width="100%"></a></p>
+<p><a href="https://www.quantverse.cn/"><img src="banner-reception-cropped.png" alt="Quantverse 前台与品牌墙" width="100%"></a></p>
 
 <a name="about-me"></a>
 <h2>About me</h2>
